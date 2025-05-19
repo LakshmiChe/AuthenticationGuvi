@@ -64,7 +64,7 @@ This project demonstrates how to implement user authentication and authorization
 ## API Endpoints
 
 ### Base URL
-`http://localhost:3000`
+`https://authentication-guvi.vercel.app/`
 
 ### Endpoints
 #### 1. **Register User**
@@ -105,6 +105,8 @@ This project demonstrates how to implement user authentication and authorization
 - **Headers**:
   ```plaintext
   Authorization: Bearer <JWT-TOKEN>
+  example: 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MmIxMDc1MThiNmY5NWU1ODliMDJlNyIsInVzZXJuYW1lIjoidGVzdHVzZXIyIiwiaWF0IjoxNzQ3NjUyNzg1LCJleHAiOjE3NDc2NTYzODV9.q0bAaHcC4rUl6cn3D3ZYBm1rB2nWznuc02If7I7dlbY
   ```
 - **Response**:
   ```json
