@@ -64,7 +64,7 @@ This project demonstrates how to implement user authentication and authorization
 ## API Endpoints
 
 ### Base URL
-`https://authentication-guvi.vercel.app/`
+`https://authentication-guvi-lakshmiches-projects.vercel.app/`
 
 ### Endpoints
 #### 1. **Register User**
